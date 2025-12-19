@@ -29,4 +29,4 @@ A server-side online book review application built with **Express.js**, utilizin
 ## 🚦 How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Tabishcode/expressBookReviews
